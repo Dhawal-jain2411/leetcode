@@ -107,6 +107,7 @@ This was created to contain all my work at leetcode!
 | [0128-longest-consecutive-sequence](https://github.com/Dhawal-jain2411/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0137-single-number-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhawal-jain2411/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Dhawal-jain2411/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -218,6 +219,7 @@ This was created to contain all my work at leetcode!
 | [0035-search-insert-position](https://github.com/Dhawal-jain2411/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Dhawal-jain2411/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Dhawal-jain2411/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhawal-jain2411/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
