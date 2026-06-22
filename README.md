@@ -36,6 +36,7 @@ This was created to contain all my work at leetcode!
 | [0013-roman-to-integer](https://github.com/Dhawal-jain2411/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Dhawal-jain2411/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/Dhawal-jain2411/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Dhawal-jain2411/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -129,6 +130,7 @@ This was created to contain all my work at leetcode!
 | [0075-sort-colors](https://github.com/Dhawal-jain2411/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Dhawal-jain2411/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
