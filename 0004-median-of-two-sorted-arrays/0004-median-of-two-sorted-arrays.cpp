@@ -15,7 +15,8 @@ public:
             int partition1 = (low + high) / 2;
             int partition2 = (m + n + 1) / 2 - partition1;
 
-            // Edge cases: if partition is 0, use -infinity; if partition is at end, use +infinity
+            // Edge cases: if partition is 0, use -infinity; if partition is at
+            // end, use +infinity
             int maxLeft1 = (partition1 == 0) ? INT_MIN : nums1[partition1 - 1];
             int minRight1 = (partition1 == m) ? INT_MAX : nums1[partition1];
 
@@ -25,16 +26,16 @@ public:
             if (maxLeft1 <= minRight2 && maxLeft2 <= minRight1) {
                 // We found the correct partition
                 if ((m + n) % 2 == 0) {
-                    return (max(maxLeft1, maxLeft2) + min(minRight1, minRight2)) / 2.0;
+                    return (max(maxLeft1, maxLeft2) +
+                            min(minRight1, minRight2)) /
+                           2.0;
                 } else {
                     return max(maxLeft1, maxLeft2);
                 }
-            } 
-            else if (maxLeft1 > minRight2) {
+            } else if (maxLeft1 > minRight2) {
                 // We are too far right in nums1, move left
                 high = partition1 - 1;
-            } 
-            else {
+            } else {
                 // We are too far left in nums1, move right
                 low = partition1 + 1;
             }
