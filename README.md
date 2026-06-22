@@ -127,6 +127,7 @@ This was created to contain all my work at leetcode!
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhawal-jain2411/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Dhawal-jain2411/leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dhawal-jain2411/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Dhawal-jain2411/leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Dhawal-jain2411/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -197,6 +198,7 @@ This was created to contain all my work at leetcode!
 | [0567-permutation-in-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Dhawal-jain2411/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dhawal-jain2411/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +254,7 @@ This was created to contain all my work at leetcode!
 | [0059-spiral-matrix-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dhawal-jain2411/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dhawal-jain2411/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
