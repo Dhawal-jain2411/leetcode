@@ -113,6 +113,7 @@ This was created to contain all my work at leetcode!
 | [0706-design-hashmap](https://github.com/Dhawal-jain2411/leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Dhawal-jain2411/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0912-sort-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dhawal-jain2411/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhawal-jain2411/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -134,6 +135,7 @@ This was created to contain all my work at leetcode!
 | [0169-majority-element](https://github.com/Dhawal-jain2411/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Dhawal-jain2411/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Dhawal-jain2411/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0912-sort-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -152,6 +154,7 @@ This was created to contain all my work at leetcode!
 | [0053-maximum-subarray](https://github.com/Dhawal-jain2411/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Dhawal-jain2411/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0912-sort-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +225,7 @@ This was created to contain all my work at leetcode!
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -288,4 +292,20 @@ This was created to contain all my work at leetcode!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dhawal-jain2411/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
