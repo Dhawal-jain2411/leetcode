@@ -89,6 +89,7 @@ This was created to contain all my work at leetcode!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhawal-jain2411/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Dhawal-jain2411/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhawal-jain2411/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Dhawal-jain2411/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/Dhawal-jain2411/leetcode/tree/main/0204-count-primes/) | Medium |
@@ -128,6 +129,7 @@ This was created to contain all my work at leetcode!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhawal-jain2411/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dhawal-jain2411/leetcode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
