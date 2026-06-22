@@ -61,6 +61,7 @@ This was created to contain all my work at leetcode!
 | [1768-merge-strings-alternately](https://github.com/Dhawal-jain2411/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dhawal-jain2411/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
+| [3614-process-string-with-special-operations-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +288,7 @@ This was created to contain all my work at leetcode!
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhawal-jain2411/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Dhawal-jain2411/leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
