@@ -98,6 +98,7 @@ This was created to contain all my work at leetcode!
 | [0219-contains-duplicate-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Dhawal-jain2411/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Dhawal-jain2411/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -132,6 +133,7 @@ This was created to contain all my work at leetcode!
 | ------- | ------- |
 | [0136-single-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0137-single-number-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhawal-jain2411/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dhawal-jain2411/leetcode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
