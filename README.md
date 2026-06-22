@@ -48,6 +48,7 @@ This was created to contain all my work at leetcode!
 | [0013-roman-to-integer](https://github.com/Dhawal-jain2411/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Dhawal-jain2411/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/Dhawal-jain2411/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0079-word-search](https://github.com/Dhawal-jain2411/leetcode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Dhawal-jain2411/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Dhawal-jain2411/leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -99,6 +100,7 @@ This was created to contain all my work at leetcode!
 | [0074-search-a-2d-matrix](https://github.com/Dhawal-jain2411/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Dhawal-jain2411/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Dhawal-jain2411/leetcode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Dhawal-jain2411/leetcode/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhawal-jain2411/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -234,6 +236,7 @@ This was created to contain all my work at leetcode!
 | [0059-spiral-matrix-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Dhawal-jain2411/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Dhawal-jain2411/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/Dhawal-jain2411/leetcode/tree/main/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Dhawal-jain2411/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhawal-jain2411/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -274,6 +277,7 @@ This was created to contain all my work at leetcode!
 | [0046-permutations](https://github.com/Dhawal-jain2411/leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Dhawal-jain2411/leetcode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Dhawal-jain2411/leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhawal-jain2411/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
@@ -351,4 +355,8 @@ This was created to contain all my work at leetcode!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhawal-jain2411/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/Dhawal-jain2411/leetcode/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
