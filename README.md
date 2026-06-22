@@ -124,7 +124,6 @@ This was created to contain all my work at leetcode!
 | [0706-design-hashmap](https://github.com/Dhawal-jain2411/leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Dhawal-jain2411/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
-| [0881-boats-to-save-people](https://github.com/Dhawal-jain2411/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dhawal-jain2411/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhawal-jain2411/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -153,7 +152,6 @@ This was created to contain all my work at leetcode!
 | [0229-majority-element-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Dhawal-jain2411/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Dhawal-jain2411/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
-| [0881-boats-to-save-people](https://github.com/Dhawal-jain2411/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Bit Manipulation
@@ -203,7 +201,6 @@ This was created to contain all my work at leetcode!
 | [0443-string-compression](https://github.com/Dhawal-jain2411/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
-| [0881-boats-to-save-people](https://github.com/Dhawal-jain2411/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Dhawal-jain2411/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhawal-jain2411/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Binary Search
@@ -246,7 +243,6 @@ This was created to contain all my work at leetcode!
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Dhawal-jain2411/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
-| [0881-boats-to-save-people](https://github.com/Dhawal-jain2411/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Dhawal-jain2411/leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Dhawal-jain2411/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
