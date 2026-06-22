@@ -101,6 +101,7 @@ This was created to contain all my work at leetcode!
 | [0075-sort-colors](https://github.com/Dhawal-jain2411/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Dhawal-jain2411/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Dhawal-jain2411/leetcode/tree/main/0079-word-search/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhawal-jain2411/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -219,6 +220,7 @@ This was created to contain all my work at leetcode!
 | [0035-search-insert-position](https://github.com/Dhawal-jain2411/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Dhawal-jain2411/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Dhawal-jain2411/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhawal-jain2411/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
