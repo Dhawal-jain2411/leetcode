@@ -98,6 +98,7 @@ This was created to contain all my work at leetcode!
 | [0046-permutations](https://github.com/Dhawal-jain2411/leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Dhawal-jain2411/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/Dhawal-jain2411/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Dhawal-jain2411/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Dhawal-jain2411/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Dhawal-jain2411/leetcode/tree/main/0056-merge-intervals/) | Medium |
@@ -294,6 +295,7 @@ This was created to contain all my work at leetcode!
 | ------- | ------- |
 | [0046-permutations](https://github.com/Dhawal-jain2411/leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/Dhawal-jain2411/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Dhawal-jain2411/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Dhawal-jain2411/leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0090-subsets-ii/) | Medium |
