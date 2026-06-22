@@ -296,6 +296,7 @@ This was created to contain all my work at leetcode!
 | [0046-permutations](https://github.com/Dhawal-jain2411/leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Dhawal-jain2411/leetcode/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Dhawal-jain2411/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Dhawal-jain2411/leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0090-subsets-ii/) | Medium |
