@@ -22,6 +22,7 @@ This was created to contain all my work at leetcode!
 | [0001-two-sum](https://github.com/Dhawal-jain2411/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhawal-jain2411/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Dhawal-jain2411/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/Dhawal-jain2411/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Dhawal-jain2411/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Dhawal-jain2411/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Dhawal-jain2411/leetcode/tree/main/0169-majority-element/) | Easy |
@@ -44,6 +45,7 @@ This was created to contain all my work at leetcode!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhawal-jain2411/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Dhawal-jain2411/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Dhawal-jain2411/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/Dhawal-jain2411/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Dhawal-jain2411/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Dhawal-jain2411/leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -85,6 +87,7 @@ This was created to contain all my work at leetcode!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Dhawal-jain2411/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/Dhawal-jain2411/leetcode/tree/main/0046-permutations/) | Medium |
+| [0049-group-anagrams](https://github.com/Dhawal-jain2411/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Dhawal-jain2411/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Dhawal-jain2411/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Dhawal-jain2411/leetcode/tree/main/0056-merge-intervals/) | Medium |
@@ -133,6 +136,7 @@ This was created to contain all my work at leetcode!
 | [0015-3sum](https://github.com/Dhawal-jain2411/leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Dhawal-jain2411/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Dhawal-jain2411/leetcode/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/Dhawal-jain2411/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Dhawal-jain2411/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Dhawal-jain2411/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
