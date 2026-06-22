@@ -29,6 +29,7 @@ This was created to contain all my work at leetcode!
 | [0219-contains-duplicate-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Dhawal-jain2411/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Dhawal-jain2411/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Dhawal-jain2411/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0705-design-hashset](https://github.com/Dhawal-jain2411/leetcode/tree/main/0705-design-hashset/) | Easy |
@@ -108,6 +109,7 @@ This was created to contain all my work at leetcode!
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Dhawal-jain2411/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Dhawal-jain2411/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Dhawal-jain2411/leetcode/tree/main/0704-binary-search/) | Easy |
@@ -138,6 +140,7 @@ This was created to contain all my work at leetcode!
 | [0217-contains-duplicate](https://github.com/Dhawal-jain2411/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Dhawal-jain2411/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Dhawal-jain2411/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Bit Manipulation
@@ -157,12 +160,14 @@ This was created to contain all my work at leetcode!
 | [0053-maximum-subarray](https://github.com/Dhawal-jain2411/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Dhawal-jain2411/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Dhawal-jain2411/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Dhawal-jain2411/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Dhawal-jain2411/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -229,6 +234,7 @@ This was created to contain all my work at leetcode!
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhawal-jain2411/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Simulation
@@ -303,6 +309,7 @@ This was created to contain all my work at leetcode!
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhawal-jain2411/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
@@ -312,4 +319,8 @@ This was created to contain all my work at leetcode!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhawal-jain2411/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
