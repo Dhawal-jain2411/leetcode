@@ -27,6 +27,7 @@ This was created to contain all my work at leetcode!
 | [0217-contains-duplicate](https://github.com/Dhawal-jain2411/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Dhawal-jain2411/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Dhawal-jain2411/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0705-design-hashset](https://github.com/Dhawal-jain2411/leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Dhawal-jain2411/leetcode/tree/main/0706-design-hashmap/) | Easy |
@@ -99,6 +100,7 @@ This was created to contain all my work at leetcode!
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Dhawal-jain2411/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Dhawal-jain2411/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/Dhawal-jain2411/leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Dhawal-jain2411/leetcode/tree/main/0706-design-hashmap/) | Easy |
@@ -256,6 +258,7 @@ This was created to contain all my work at leetcode!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dhawal-jain2411/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Dhawal-jain2411/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Dhawal-jain2411/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
