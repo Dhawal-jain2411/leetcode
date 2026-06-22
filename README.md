@@ -84,6 +84,7 @@ This was created to contain all my work at leetcode!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhawal-jain2411/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Dhawal-jain2411/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0136-single-number/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhawal-jain2411/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Dhawal-jain2411/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/Dhawal-jain2411/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/Dhawal-jain2411/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -144,6 +145,7 @@ This was created to contain all my work at leetcode!
 | [0088-merge-sorted-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Dhawal-jain2411/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhawal-jain2411/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/Dhawal-jain2411/leetcode/tree/main/0443-string-compression/) | Medium |
@@ -158,6 +160,7 @@ This was created to contain all my work at leetcode!
 | [0035-search-insert-position](https://github.com/Dhawal-jain2411/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Dhawal-jain2411/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Dhawal-jain2411/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhawal-jain2411/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Dhawal-jain2411/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
