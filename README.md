@@ -78,6 +78,7 @@ This was created to contain all my work at leetcode!
 | [0705-design-hashset](https://github.com/Dhawal-jain2411/leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Dhawal-jain2411/leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Dhawal-jain2411/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dhawal-jain2411/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhawal-jain2411/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Dhawal-jain2411/leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
@@ -131,6 +132,7 @@ This was created to contain all my work at leetcode!
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Dhawal-jain2411/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Dhawal-jain2411/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dhawal-jain2411/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Dhawal-jain2411/leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Dhawal-jain2411/leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Matrix
