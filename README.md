@@ -22,6 +22,7 @@ This was created to contain all my work at leetcode!
 | [0242-valid-anagram](https://github.com/Dhawal-jain2411/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhawal-jain2411/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dhawal-jain2411/leetcode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@ This was created to contain all my work at leetcode!
 | [0704-binary-search](https://github.com/Dhawal-jain2411/leetcode/tree/main/0704-binary-search/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhawal-jain2411/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dhawal-jain2411/leetcode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +72,7 @@ This was created to contain all my work at leetcode!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0136-single-number/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dhawal-jain2411/leetcode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
