@@ -112,6 +112,7 @@ This was created to contain all my work at leetcode!
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/Dhawal-jain2411/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Dhawal-jain2411/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Dhawal-jain2411/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -221,6 +222,7 @@ This was created to contain all my work at leetcode!
 | [0073-set-matrix-zeroes](https://github.com/Dhawal-jain2411/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Dhawal-jain2411/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/Dhawal-jain2411/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhawal-jain2411/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -277,6 +279,7 @@ This was created to contain all my work at leetcode!
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Dhawal-jain2411/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0705-design-hashset](https://github.com/Dhawal-jain2411/leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Dhawal-jain2411/leetcode/tree/main/0706-design-hashmap/) | Easy |
 ## Hash Function
@@ -292,6 +295,7 @@ This was created to contain all my work at leetcode!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dhawal-jain2411/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/Dhawal-jain2411/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Dhawal-jain2411/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Dhawal-jain2411/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Stack
