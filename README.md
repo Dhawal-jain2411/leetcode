@@ -79,6 +79,7 @@ This was created to contain all my work at leetcode!
 | [0706-design-hashmap](https://github.com/Dhawal-jain2411/leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhawal-jain2411/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Dhawal-jain2411/leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Dhawal-jain2411/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhawal-jain2411/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -127,6 +128,7 @@ This was created to contain all my work at leetcode!
 | [0374-guess-number-higher-or-lower](https://github.com/Dhawal-jain2411/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Dhawal-jain2411/leetcode/tree/main/0704-binary-search/) | Easy |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Dhawal-jain2411/leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@ This was created to contain all my work at leetcode!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Dhawal-jain2411/leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
