@@ -22,6 +22,7 @@ This was created to contain all my work at leetcode!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Dhawal-jain2411/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0125-valid-palindrome](https://github.com/Dhawal-jain2411/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Dhawal-jain2411/leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@ This was created to contain all my work at leetcode!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Dhawal-jain2411/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Dhawal-jain2411/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
