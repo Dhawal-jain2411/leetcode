@@ -9,6 +9,7 @@ This was created to contain all my work at leetcode!
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Dhawal-jain2411/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/Dhawal-jain2411/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Dhawal-jain2411/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhawal-jain2411/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -48,6 +49,7 @@ This was created to contain all my work at leetcode!
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Dhawal-jain2411/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
