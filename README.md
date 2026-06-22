@@ -22,12 +22,14 @@ This was created to contain all my work at leetcode!
 | [0242-valid-anagram](https://github.com/Dhawal-jain2411/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhawal-jain2411/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Dhawal-jain2411/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0125-valid-palindrome](https://github.com/Dhawal-jain2411/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Dhawal-jain2411/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +78,7 @@ This was created to contain all my work at leetcode!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Dhawal-jain2411/leetcode/tree/main/0169-majority-element/) | Easy |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
