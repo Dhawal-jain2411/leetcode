@@ -39,6 +39,7 @@ This was created to contain all my work at leetcode!
 | [0344-reverse-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Dhawal-jain2411/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Dhawal-jain2411/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -166,6 +167,7 @@ This was created to contain all my work at leetcode!
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Dhawal-jain2411/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Backtracking
@@ -208,4 +210,8 @@ This was created to contain all my work at leetcode!
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dhawal-jain2411/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Dhawal-jain2411/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Dhawal-jain2411/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 <!---LeetCode Topics End-->
