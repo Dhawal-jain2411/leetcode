@@ -20,6 +20,7 @@ This was created to contain all my work at leetcode!
 | [0217-contains-duplicate](https://github.com/Dhawal-jain2411/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Dhawal-jain2411/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhawal-jain2411/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@ This was created to contain all my work at leetcode!
 | [0217-contains-duplicate](https://github.com/Dhawal-jain2411/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0704-binary-search](https://github.com/Dhawal-jain2411/leetcode/tree/main/0704-binary-search/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhawal-jain2411/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -61,6 +63,7 @@ This was created to contain all my work at leetcode!
 | [0169-majority-element](https://github.com/Dhawal-jain2411/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Dhawal-jain2411/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Dhawal-jain2411/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +95,16 @@ This was created to contain all my work at leetcode!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 <!---LeetCode Topics End-->
