@@ -24,6 +24,7 @@ This was created to contain all my work at leetcode!
 | [0001-two-sum](https://github.com/Dhawal-jain2411/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhawal-jain2411/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Dhawal-jain2411/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0037-sudoku-solver](https://github.com/Dhawal-jain2411/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/Dhawal-jain2411/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Dhawal-jain2411/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Dhawal-jain2411/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -94,6 +95,7 @@ This was created to contain all my work at leetcode!
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Dhawal-jain2411/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0037-sudoku-solver](https://github.com/Dhawal-jain2411/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Dhawal-jain2411/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Dhawal-jain2411/leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0047-permutations-ii/) | Medium |
@@ -247,6 +249,7 @@ This was created to contain all my work at leetcode!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Dhawal-jain2411/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/Dhawal-jain2411/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Dhawal-jain2411/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -293,6 +296,7 @@ This was created to contain all my work at leetcode!
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Dhawal-jain2411/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/Dhawal-jain2411/leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Dhawal-jain2411/leetcode/tree/main/0051-n-queens/) | Hard |
