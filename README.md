@@ -152,6 +152,7 @@ This was created to contain all my work at leetcode!
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Dhawal-jain2411/leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Dhawal-jain2411/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/Dhawal-jain2411/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhawal-jain2411/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dhawal-jain2411/leetcode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Dhawal-jain2411/leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
@@ -260,6 +261,7 @@ This was created to contain all my work at leetcode!
 | [0079-word-search](https://github.com/Dhawal-jain2411/leetcode/tree/main/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Dhawal-jain2411/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/Dhawal-jain2411/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhawal-jain2411/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -294,6 +296,7 @@ This was created to contain all my work at leetcode!
 | [1929-concatenation-of-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhawal-jain2411/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/Dhawal-jain2411/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Dhawal-jain2411/leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Backtracking
@@ -390,6 +393,7 @@ This was created to contain all my work at leetcode!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Dhawal-jain2411/leetcode/tree/main/0079-word-search/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/Dhawal-jain2411/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -402,4 +406,8 @@ This was created to contain all my work at leetcode!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Dhawal-jain2411/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Dhawal-jain2411/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 <!---LeetCode Topics End-->
