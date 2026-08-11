@@ -226,6 +226,7 @@ This was created to contain all my work at leetcode!
 | [0443-string-compression](https://github.com/Dhawal-jain2411/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Dhawal-jain2411/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Dhawal-jain2411/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Dhawal-jain2411/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhawal-jain2411/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -334,6 +335,7 @@ This was created to contain all my work at leetcode!
 | [0206-reverse-linked-list](https://github.com/Dhawal-jain2411/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0705-design-hashset](https://github.com/Dhawal-jain2411/leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Dhawal-jain2411/leetcode/tree/main/0706-design-hashmap/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Dhawal-jain2411/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
