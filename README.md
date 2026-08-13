@@ -77,6 +77,7 @@ This was created to contain all my work at leetcode!
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Dhawal-jain2411/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/Dhawal-jain2411/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Dhawal-jain2411/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -336,6 +337,7 @@ This was created to contain all my work at leetcode!
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Dhawal-jain2411/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Dhawal-jain2411/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Dhawal-jain2411/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
