@@ -363,6 +363,7 @@ This was created to contain all my work at leetcode!
 | [0304-range-sum-query-2d-immutable](https://github.com/Dhawal-jain2411/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0705-design-hashset](https://github.com/Dhawal-jain2411/leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Dhawal-jain2411/leetcode/tree/main/0706-design-hashmap/) | Easy |
+| [0901-online-stock-span](https://github.com/Dhawal-jain2411/leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -386,6 +387,7 @@ This was created to contain all my work at leetcode!
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Dhawal-jain2411/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Dhawal-jain2411/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0901-online-stock-span](https://github.com/Dhawal-jain2411/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dhawal-jain2411/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -426,6 +428,7 @@ This was created to contain all my work at leetcode!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhawal-jain2411/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0901-online-stock-span](https://github.com/Dhawal-jain2411/leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -451,4 +454,8 @@ This was created to contain all my work at leetcode!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Dhawal-jain2411/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Dhawal-jain2411/leetcode/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
