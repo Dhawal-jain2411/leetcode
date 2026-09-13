@@ -362,6 +362,7 @@ This was created to contain all my work at leetcode!
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Dhawal-jain2411/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Dhawal-jain2411/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0705-design-hashset](https://github.com/Dhawal-jain2411/leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Dhawal-jain2411/leetcode/tree/main/0706-design-hashmap/) | Easy |
@@ -389,6 +390,7 @@ This was created to contain all my work at leetcode!
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Dhawal-jain2411/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Dhawal-jain2411/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0155-min-stack](https://github.com/Dhawal-jain2411/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Dhawal-jain2411/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/Dhawal-jain2411/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dhawal-jain2411/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
