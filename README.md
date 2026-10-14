@@ -15,6 +15,7 @@ This was created to contain all my work at leetcode!
 | [0069-sqrtx](https://github.com/Dhawal-jain2411/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Dhawal-jain2411/leetcode/tree/main/0204-count-primes/) | Medium |
+| [0231-power-of-two](https://github.com/Dhawal-jain2411/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhawal-jain2411/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2235-add-two-integers](https://github.com/Dhawal-jain2411/leetcode/tree/main/2235-add-two-integers/) | Easy |
@@ -87,6 +88,7 @@ This was created to contain all my work at leetcode!
 | [0025-reverse-nodes-in-k-group](https://github.com/Dhawal-jain2411/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/Dhawal-jain2411/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Dhawal-jain2411/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/Dhawal-jain2411/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -196,6 +198,7 @@ This was created to contain all my work at leetcode!
 | [0090-subsets-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0137-single-number-ii/) | Medium |
+| [0231-power-of-two](https://github.com/Dhawal-jain2411/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0476-number-complement](https://github.com/Dhawal-jain2411/leetcode/tree/main/0476-number-complement/) | Easy |
