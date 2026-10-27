@@ -1,19 +1,11 @@
 class Solution {
 public:
- int count_1(int n) {
-         int count =0;
-         while (n>=1){
-            count+= n%2;
-            n/=2;
-         }
-
-         return count;
-    }
     vector<int> countBits(int n) {
-        vector<int> ans;
-        for(int i =0; i< n+1; i++){
-            ans.push_back(count_1(i));
-            
+        vector<int> ans(n + 1, 0);
+        for (int i = 1; i <= n; i++) {
+            // ans[i >> 1] is the same as ans[i / 2]
+            // (i & 1) is the same as i % 2
+            ans[i] = ans[i >> 1] + (i & 1);
         }
         return ans;
     }
