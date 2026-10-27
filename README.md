@@ -16,6 +16,7 @@ This was created to contain all my work at leetcode!
 | [0189-rotate-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Dhawal-jain2411/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Dhawal-jain2411/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhawal-jain2411/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2235-add-two-integers](https://github.com/Dhawal-jain2411/leetcode/tree/main/2235-add-two-integers/) | Easy |
@@ -39,6 +40,7 @@ This was created to contain all my work at leetcode!
 | [0219-contains-duplicate-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Dhawal-jain2411/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Dhawal-jain2411/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhawal-jain2411/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Dhawal-jain2411/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -147,6 +149,7 @@ This was created to contain all my work at leetcode!
 | [0239-sliding-window-maximum](https://github.com/Dhawal-jain2411/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Dhawal-jain2411/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Dhawal-jain2411/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -188,6 +191,7 @@ This was created to contain all my work at leetcode!
 | [0217-contains-duplicate](https://github.com/Dhawal-jain2411/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Dhawal-jain2411/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Dhawal-jain2411/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Dhawal-jain2411/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0912-sort-an-array/) | Medium |
@@ -202,6 +206,7 @@ This was created to contain all my work at leetcode!
 | [0191-number-of-1-bits](https://github.com/Dhawal-jain2411/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Dhawal-jain2411/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/Dhawal-jain2411/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0476-number-complement](https://github.com/Dhawal-jain2411/leetcode/tree/main/0476-number-complement/) | Easy |
@@ -266,6 +271,7 @@ This was created to contain all my work at leetcode!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhawal-jain2411/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhawal-jain2411/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0268-missing-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Dhawal-jain2411/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
