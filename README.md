@@ -79,6 +79,7 @@ This was created to contain all my work at leetcode!
 | [0053-maximum-subarray](https://github.com/Dhawal-jain2411/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhawal-jain2411/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Dhawal-jain2411/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0338-counting-bits](https://github.com/Dhawal-jain2411/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -202,6 +203,7 @@ This was created to contain all my work at leetcode!
 | [0231-power-of-two](https://github.com/Dhawal-jain2411/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0338-counting-bits](https://github.com/Dhawal-jain2411/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0476-number-complement](https://github.com/Dhawal-jain2411/leetcode/tree/main/0476-number-complement/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhawal-jain2411/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dhawal-jain2411/leetcode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
