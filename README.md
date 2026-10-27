@@ -198,6 +198,7 @@ This was created to contain all my work at leetcode!
 | [0090-subsets-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0137-single-number-ii/) | Medium |
+| [0191-number-of-1-bits](https://github.com/Dhawal-jain2411/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Dhawal-jain2411/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -210,6 +211,7 @@ This was created to contain all my work at leetcode!
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhawal-jain2411/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Dhawal-jain2411/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Dhawal-jain2411/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Dhawal-jain2411/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Dhawal-jain2411/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/0912-sort-an-array/) | Medium |
