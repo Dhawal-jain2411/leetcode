@@ -479,4 +479,8 @@ This was created to contain all my work at leetcode!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Dhawal-jain2411/leetcode/tree/main/0901-online-stock-span/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Dhawal-jain2411/leetcode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
