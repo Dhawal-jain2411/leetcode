@@ -78,6 +78,7 @@ This was created to contain all my work at leetcode!
 | [0680-valid-palindrome-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Dhawal-jain2411/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dhawal-jain2411/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Dhawal-jain2411/leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3614-process-string-with-special-operations-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Dynamic Programming
@@ -178,6 +179,7 @@ This was created to contain all my work at leetcode!
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Dhawal-jain2411/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Dhawal-jain2411/leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/Dhawal-jain2411/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhawal-jain2411/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dhawal-jain2411/leetcode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
@@ -236,6 +238,7 @@ This was created to contain all my work at leetcode!
 | [0169-majority-element](https://github.com/Dhawal-jain2411/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Dhawal-jain2411/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Dhawal-jain2411/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Dhawal-jain2411/leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dhawal-jain2411/leetcode/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
