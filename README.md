@@ -25,6 +25,7 @@ This was created to contain all my work at leetcode!
 | [2413-smallest-even-multiple](https://github.com/Dhawal-jain2411/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Dhawal-jain2411/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhawal-jain2411/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Dhawal-jain2411/leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 ## Hash Table
@@ -175,6 +176,7 @@ This was created to contain all my work at leetcode!
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhawal-jain2411/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Dhawal-jain2411/leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhawal-jain2411/leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Dhawal-jain2411/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/Dhawal-jain2411/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhawal-jain2411/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
