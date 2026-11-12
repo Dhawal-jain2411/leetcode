@@ -28,6 +28,7 @@ This was created to contain all my work at leetcode!
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/Dhawal-jain2411/leetcode/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [2806-account-balance-after-rounded-purchase](https://github.com/Dhawal-jain2411/leetcode/tree/main/2806-account-balance-after-rounded-purchase/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhawal-jain2411/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Dhawal-jain2411/leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 ## Hash Table
