@@ -26,6 +26,7 @@ This was created to contain all my work at leetcode!
 | [2469-convert-the-temperature](https://github.com/Dhawal-jain2411/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dhawal-jain2411/leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2651-calculate-delayed-arrival-time](https://github.com/Dhawal-jain2411/leetcode/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhawal-jain2411/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Dhawal-jain2411/leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 ## Hash Table
