@@ -486,4 +486,12 @@ This was created to contain all my work at leetcode!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Dhawal-jain2411/leetcode/tree/main/0069-sqrtx/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Dhawal-jain2411/leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Dhawal-jain2411/leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 <!---LeetCode Topics End-->
