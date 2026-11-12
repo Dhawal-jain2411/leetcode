@@ -21,6 +21,7 @@ This was created to contain all my work at leetcode!
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dhawal-jain2411/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhawal-jain2411/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2235-add-two-integers](https://github.com/Dhawal-jain2411/leetcode/tree/main/2235-add-two-integers/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/Dhawal-jain2411/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Dhawal-jain2411/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Dhawal-jain2411/leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhawal-jain2411/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -416,6 +417,7 @@ This was created to contain all my work at leetcode!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Dhawal-jain2411/leetcode/tree/main/0204-count-primes/) | Medium |
+| [2413-smallest-even-multiple](https://github.com/Dhawal-jain2411/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
